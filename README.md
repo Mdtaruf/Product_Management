@@ -16,7 +16,7 @@ This is a Spring Boot application that provides a RESTful API for managing produ
 4. Run the application using.
 
 ## API Documentation
-- Swagger UI: http://localhost:9091/swagger-ui.html
+- Swagger UI: http://localhost:9091/swagger-ui
 
 ## Endpoints
 - GET /products/getAll' - Get all products
